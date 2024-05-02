@@ -10,7 +10,7 @@ Feel free to fork this project to improve the UI, structure, performance, and se
 
 #### 1. Clone the repo.
 ```sh
-$ git clone https://github.com/GabrielSalangsang013/ts-mern-with-auth-boilerplate.git
+$ git clone https://github.com/neeramrutia/ts-mern-with-auth-boilerplate.git
 ```
 
 #### 2. Open the project in VS code.
